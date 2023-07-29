@@ -1,6 +1,18 @@
+---
+marp: true
+theme: uncover
+class:
+    - invert
+
+size: 16:9
+paginate: true
+
+---
+
 # Vim(Neovim)プラグイン今昔物語
-### yank.nvim
-### 2023/07/30
+yank.nvim
+2023/07/30
+![bg brightness:0.7](./bg.png)
 
 ---
 
