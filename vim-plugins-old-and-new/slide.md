@@ -1,6 +1,8 @@
-% Vim(Neovim)プラグイン今昔物語
-% yank.nvim
-% 2023/07/30
+# Vim(Neovim)プラグイン今昔物語
+### yank.nvim
+### 2023/07/30
+
+---
 
 # 自己紹介
 - VRChat.vim管理者
