@@ -57,7 +57,7 @@ yank.nvim
 ## ステータスライン
 - 昔: vim-airline ([vim-airline/vim-airline](https://github.com/vim-airline/vim-airline))
     - 今でもVim用のステータスラインなら一番手
-    - 基礎的な機能は全てついている
+    - Vimのステータスラインをファンシーにする
 - 今: lualine.nvim ([nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim))
     - Lua製のステータスライン
     - パフォーマンスの向上やテーマ・コンポーネント機能、設定がよりしやすくなるなど扱いやすくなっている
