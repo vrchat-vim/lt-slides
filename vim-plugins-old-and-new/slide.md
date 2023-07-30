@@ -12,7 +12,7 @@ paginate: true
 # Vim(Neovim)プラグイン今昔物語
 yank.nvim
 2023/07/30
-![bg brightness:0.7](./bg.png)
+![bg brightness:0.7](https://raw.githubusercontent.com/vrchat-vim/lt-slides/main/vim-plugins-old-and-new/bg.png)
 
 ---
 
